@@ -6,7 +6,7 @@ public class practiceDemoTest {
     @Test 
     public void multiply() {
 
-        assertEquals(3, practiceDemo.multiply(3, 2));
+        assertEquals(6, practiceDemo.multiply(3, 2));
 
     }
 
